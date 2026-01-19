@@ -1,1 +1,0 @@
-# Smart-Fire-Risk-Early-Warning-using-Anomaly-Detection
